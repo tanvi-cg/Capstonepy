@@ -1,0 +1,19 @@
+
+# Weather Data Analysis Report Summary
+
+## Key Numbers
+- The average temperature for the whole period was: 20.2°C
+- The total rainfall recorded was: 93.7 mm
+
+## Seasonal Overview
+        TEMPERATURE_C  RAINFALL_MM
+SEASON                            
+Spring      28.581522         19.3
+Summer      17.528571         64.4
+Autumn      11.598901          4.1
+Winter      23.072778          5.9
+
+**What I found:**
+Summer is the hottest season, of course, but it looks like the most rain happens in [Check your monthly_summary result here] when the temperatures start to go down a little. The scatter plot shows that when it's super hot, the humidity is usually lower.
+
+This data would be helpful for the campus to plan where to collect rainwater!
